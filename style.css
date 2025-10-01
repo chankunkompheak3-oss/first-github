@@ -6,9 +6,10 @@
 body {
     background-color: red;
 }
+h1 {
+    backgroundcolor : white;
 h2 {
     font-size: 30px;
     display: flex;
     align-items: center;
-    
 }
